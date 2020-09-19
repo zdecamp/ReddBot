@@ -1,2 +1,2 @@
-# zachbot
+# ReddBot
 A reddit media downloader
